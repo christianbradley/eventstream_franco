@@ -1,0 +1,18 @@
+{
+  "name": "franco_sse",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Bradley <christianbradley@gmail.com> (https://github.com/christianbradley)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "when": "~3.1.0",
+    "then-redis": "~0.3.12",
+    "mongojs": "~0.11.0",
+    "express": "~4.0.0"
+  }
+}
